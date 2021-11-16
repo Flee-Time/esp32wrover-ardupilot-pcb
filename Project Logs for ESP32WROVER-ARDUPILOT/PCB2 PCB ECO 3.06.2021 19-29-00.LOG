@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Vbat Pin=D4-A
+Removed Pin From Net: NetName=NetC9_2 Pin=D4-C
+Added Component: Designator=D4(DO214AA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'ON Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MBRS120T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbat Pin=D4-A
+Added Pin To Net: NetName=NetC9_2 Pin=D4-C
+Added Member To Class: ClassName=ESP32WROVER Member=Component C8 Cap Semi

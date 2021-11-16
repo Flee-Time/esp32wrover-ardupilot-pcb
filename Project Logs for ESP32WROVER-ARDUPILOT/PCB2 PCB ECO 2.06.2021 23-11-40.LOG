@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+3v3 Pin=U2-4
+Change Component Comment : Designator=U2 Old Comment=AMS1117 New Comment=AMS1117-3.3
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOT229P700X180-4N"; UniqueID = "\CWGZHGMN" ("\CWGZHGMN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'AMD'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

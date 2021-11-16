@@ -1,0 +1,19 @@
+Added Component: Designator=U1(QFN50P500X500X100-29N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Silicon Labs'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CP2102-GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-4
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-5
+Added Pin To Net: NetName=NetC8_1 Pin=U1-6
+Added Pin To Net: NetName=Vusb Pin=U1-7
+Added Pin To Net: NetName=Vusb Pin=U1-8
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-24
+Added Pin To Net: NetName=NetR1_1 Pin=U1-25
+Added Pin To Net: NetName=NetA1_35 Pin=U1-26
+Added Pin To Net: NetName=NetQ2_3 Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Member To Class: ClassName=ESP32WROVER Member=Component U1 CP2102-GM

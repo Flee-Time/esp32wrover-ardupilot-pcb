@@ -1,0 +1,10 @@
+Change Component Comment : Designator=U2 Old Comment=AMS1117-3.3 New Comment=AMS1117
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOT229P700X180-4N"; UniqueID = "\ZAKPICID" ("\ZAKPICID")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Advanced Monolithic Systems'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AMS1117"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3v3 Pin=U2-4
+Added Member To Class: ClassName=ESP32WROVER Member=Component U2 AMS1117

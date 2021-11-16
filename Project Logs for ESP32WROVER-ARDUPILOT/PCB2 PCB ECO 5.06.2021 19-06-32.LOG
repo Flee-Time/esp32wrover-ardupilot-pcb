@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=+3v3 Pin=J1-02
+Removed Pin From Net: NetName=+3v3 Pin=J2-02
+Removed Pin From Net: NetName=NetMD1_36 Pin=MD1-36
+Removed Pin From Net: NetName=NetMD1_37 Pin=MD1-37
+Removed Pin From Net: NetName=NetQ1_3 Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetMD1_29 Pin=R17-2
+Removed Pin From Net: NetName=NetMD1_29 Pin=U2-21
+Removed Member From Class: ClassName=ESP32WROVER Member=D2
+Removed Member From Class: ClassName=ESP32WROVER Member=J1
+Removed Member From Class: ClassName=ESP32WROVER Member=J2
+Removed Member From Class: ClassName=ESP32WROVER Member=R4
+Removed Member From Class: ClassName=ESP32WROVER Member=R8
+Removed Member From Class: ClassName=ESP32WROVER Member=R15
+Added Component: Designator=CD1(MOLX-502774-0891_V)
+Add component (AddParameter): Name = "3D Model"; Value = "502774-0891.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Type"; Value = "SecureDigital-microSD™"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "502774-0891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "ConnectorandEjector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "20µin(0.51µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/1104/1499551-1104671.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D, 04/2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ejector Side"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "MemoryConnectors-PCCardSockets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "0.071"(1.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Feature"; Value = "Reverse-Bottom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10(8+2)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "microSD™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "WM24066DKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "502774-0891CertofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "502774"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insertion, Removal Method"; Value = "PushIn,PushOut"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3v3 Pin=CD1-4
+Added Pin To Net: NetName=GND Pin=CD1-6
+Added Pin To Net: NetName=GND Pin=CD1-11
+Added Pin To Net: NetName=GND Pin=CD1-12
+Added Pin To Net: NetName=GND Pin=CD1-13
+Added Pin To Net: NetName=GND Pin=CD1-14
+Added Pin To Net: NetName=NetMD1_37 Pin=MD1-30
+Added Pin To Net: NetName=NetMD1_36 Pin=MD1-37
+Added Pin To Net: NetName=NetMD1_29 Pin=R12-2
+Added Pin To Net: NetName=NetMD1_29 Pin=U2-22
+Change Net Name : Old Net Name=NetMD1_36 New Net Name=NetMD1_37
+Change Net Name : Old Net Name=NetMD1_37 New Net Name=NetMD1_30
+Added Pin To Net: NetName=NetCD1_3 Pin=CD1-3
+Added Pin To Net: NetName=NetCD1_3 Pin=MD1-23
+Added Net: Name=NetCD1_3
+Added Pin To Net: NetName=NetCD1_5 Pin=CD1-5
+Added Pin To Net: NetName=NetCD1_5 Pin=MD1-13
+Added Net: Name=NetCD1_5
+Added Pin To Net: NetName=NetCD1_7 Pin=CD1-7
+Added Pin To Net: NetName=NetCD1_7 Pin=MD1-24
+Added Net: Name=NetCD1_7
+Added Pin To Net: NetName=NetMD1_11 Pin=MD1-11
+Added Pin To Net: NetName=NetMD1_11 Pin=R7-1
+Added Pin To Net: NetName=NetMD1_11 Pin=U1-2
+Added Net: Name=NetMD1_11
+Added Pin To Net: NetName=NetMD1_31 Pin=MD1-31
+Added Pin To Net: NetName=NetMD1_31 Pin=R11-2
+Added Pin To Net: NetName=NetMD1_31 Pin=R20-1
+Added Pin To Net: NetName=NetMD1_31 Pin=U1-5
+Added Pin To Net: NetName=NetMD1_31 Pin=U2-9
+Added Net: Name=NetMD1_31
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U2-7
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U2-21
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=ESP32WROVER Member=Component CD1 502774-0891
